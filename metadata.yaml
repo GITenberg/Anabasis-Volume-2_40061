@@ -1,0 +1,40 @@
+_version: 0.0.1
+alternative_title: Anabasis, Volume 2
+contributor:
+  translator:
+    agent_name: Anastasopoulos, Demetrios
+    alias: Anastasopoulos, Dimitrios
+    birthdate: 1873
+    gutenberg_agent_id: '40217'
+    url: http://www.gutenberg.org/2009/agents/40217
+covers:
+- cover_type: archival
+  image_path: 40061/40061-h/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Xenophon
+    alias: Ξενοφών
+    birthdate: -431
+    deathdate: -355
+    gutenberg_agent_id: '543'
+    url: http://www.gutenberg.org/2009/agents/543
+    wikipedia: http://en.wikipedia.org/wiki/Xenophon
+description: ''
+gutenberg_issued: '2012-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '40061'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Iran -- History -- To 640'
+- !lcsh 'Cyrus, the Younger, approximately 423 B.C.-401 B.C.'
+- !lcc 'PA'
+- !lcsh 'Greece -- History -- Expedition of Cyrus, 401 B.C.'
+- GITenberg
+title: Κύρου Ανάβασις Τόμος 2
+url: http://www.gutenberg.org/ebooks/40061
