@@ -1,4 +1,5 @@
-_version: 0.1.0
+_repo: Anabasis-Volume-2_40061
+_version: 0.1.1
 alternative_title: Anabasis, Volume 2
 contributor:
   translator:
@@ -22,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/543
     wikipedia: http://en.wikipedia.org/wiki/Xenophon
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/40061#Anabasis-Volume-2
 gutenberg_issued: '2012-06-22'
 gutenberg_type: Text
 identifiers:
